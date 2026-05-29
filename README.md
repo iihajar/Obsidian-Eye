@@ -30,15 +30,29 @@ mission_items.py
 
 ## Workflow
 
-RF Detection
-↓
-Acoustic Detection
-↓
+## Workflow
+
+Start Monitoring
+       ↓
+RF Scan
+       ↓
+Acoustic Analysis
+       ↓
+Suspicious Target?
+       ↓
+      Yes
+       ↓
 YOLO Verification
-↓
+       ↓
 Decision Module
-↓
-Autonomous Tracking
+       ↓
+ ┌───────────────────┬─────────────────────┐
+ │                   │
+ ▼                   ▼
+Continue        Confirmed Drone
+Monitoring             ↓
+                        ▼
+              Autonomous Tracking
 
 ## Safety Checks
 
