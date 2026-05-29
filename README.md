@@ -30,8 +30,7 @@ mission_items.py
 
 ## Workflow
 
-## Workflow
-
+```text
 Start Monitoring
        ↓
 RF Scan
@@ -53,6 +52,7 @@ Continue        Confirmed Drone
 Monitoring             ↓
                         ▼
               Autonomous Tracking
+```
 
 ## Safety Checks
 
