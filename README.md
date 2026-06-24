@@ -96,8 +96,3 @@ Future development includes advanced sensor integration, improved autonomous tra
 - Enhanced Mission Planning
 - Multi-Drone Coordination
 - Real-Time Threat Assessment Improvements
-
-
-
-Unmanned Systems Trainee
-ابي نفس هذي بس اختصرهااا بسس
